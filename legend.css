@@ -1,0 +1,43 @@
+#legend {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 50;
+    color: black;
+    width: 150px;
+    height: 250px;
+    font-size: 11px;
+}
+
+#legendHeading {
+    font-size: 11px;
+}
+
+#legendHeading6 {
+    margin-bottom: 9px;
+    padding-bottom: 0px;
+    ;
+}
+
+.queryContainers {
+    height: 20px;
+    width: 20px;
+    padding: 3px;
+    padding-top: 8px;
+
+}
+
+.queryContainers:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    background-color: #88c2f8;
+}
+
+span img {
+    width: 15px;
+    height: 15px;
+
+}
