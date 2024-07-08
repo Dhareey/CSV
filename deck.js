@@ -6,7 +6,7 @@
 // Step 3: Create an instance of the Map
 // Step 4: Add Layers to the created Instance
 
-import { createBathymetryLayer, createRouteLayer, createJettyLayer, createLandingLayer } from "./deckLayers.js";
+import { createBathymetryLayer, createRouteLayer, createJettyLayer, createLandingLayer } from "https://raw.githubusercontent.com/Dhareey/CSV/main/deckLayers.js";
 
 // Step 1
 const { DeckGL } = deck;
