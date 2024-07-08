@@ -5,8 +5,8 @@
 // Query tools
 // Search bar
 
-import { deckContainer, poly, routepath, jettypoint, landings } from "./deck.js";
-import { createBathymetryLayer, createRouteLayer, createJettyLayer, createLandingLayer } from "./deckLayers.js";
+import { deckContainer, poly, routepath, jettypoint, landings } from "https://raw.githubusercontent.com/Dhareey/CSV/main/deck.js";
+import { createBathymetryLayer, createRouteLayer, createJettyLayer, createLandingLayer } from "https://raw.githubusercontent.com/Dhareey/CSV/main/deckLayers.js";
 
 
 //1. Change Basemaps based on selection
